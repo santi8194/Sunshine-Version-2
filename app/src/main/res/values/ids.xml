@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="action_refresh" type="id">action_refresh</item>
+    <item name="action_viewmap" type="id">action_viewmap</item>
+    <item name="action_share" type="id">action_share</item>
 </resources>
